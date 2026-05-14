@@ -72,7 +72,7 @@ This project solves those problems using data analysis and business intelligence
 
 ## Database & Querying
 - SQL
-- PostgreSQL / MySQL
+- MySQL
 - SQLAlchemy
 - PyMySQL
 
@@ -110,7 +110,7 @@ Created:
 
 ## 3. Database Integration
 
-The cleaned dataset was exported into PostgreSQL/MySQL for SQL-based business analysis.
+The cleaned dataset was exported into MySQL for SQL-based business analysis.
 
 ---
 
@@ -358,15 +358,7 @@ Target high-performing customer segments more effectively.
 
 ---
 
-# Future Improvements
 
-Potential future enhancements:
-- Customer Lifetime Value (CLV) Analysis
-- RFM Segmentation
-- Sales Forecasting
-- Predictive Analytics
-- Recommendation Systems
-- Cohort Analysis
 
 ---
 
