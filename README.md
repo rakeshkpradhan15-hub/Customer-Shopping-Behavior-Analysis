@@ -352,7 +352,7 @@ Target high-performing customer segments more effectively.
 - Business Visualization
 
 ## Database Skills
-- PostgreSQL/MySQL Integration
+- MySQL Integration
 - SQL Querying
 - Data Pipeline Workflow
 
@@ -364,7 +364,7 @@ Target high-performing customer segments more effectively.
 
 # Conclusion
 
-This project successfully transformed raw retail customer transaction data into meaningful business insights using Python, SQL, PostgreSQL/MySQL, and Power BI.
+This project successfully transformed raw retail customer transaction data into meaningful business insights using Python, SQL, MySQL, and Power BI.
 
 The analysis identified:
 - High-value customer segments
