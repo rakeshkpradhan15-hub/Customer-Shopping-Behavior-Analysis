@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a complete end-to-end retail customer shopping behavior analysis solution built using Python, SQL,MySQL, and Power BI.
+This project is a complete end-to-end retail customer shopping behavior analysis solution built using Python, SQL, and Power BI.
 
 The main objective of this project is to analyze customer purchasing patterns, subscription behavior, discount effectiveness, customer loyalty, and product performance to generate actionable business insights and recommendations.
 
